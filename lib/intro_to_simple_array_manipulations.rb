@@ -41,6 +41,6 @@ def using_insert (array, another_language)
   array.insert(4,another_language)
 end
 
-def using_uniq (array, new_array)
-  array.uniq(6)
+def using_uniq (array)
+  array.uniq
 end
