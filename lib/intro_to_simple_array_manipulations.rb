@@ -54,5 +54,5 @@ def using_delete (array, string)
 end
 
 def using_delete_at (famous_robots, 2)
-  fomous_robots.delete_at
-end 
+  famous_robots.delete_at
+end
