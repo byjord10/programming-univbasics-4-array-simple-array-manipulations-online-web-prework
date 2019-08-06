@@ -38,5 +38,5 @@ def using_concat (array, more_favs)
 end
 
 def using_insert (array, another_language)
-  array.insert(another_language)
-end 
+  array.insert(4,another_language)
+end
