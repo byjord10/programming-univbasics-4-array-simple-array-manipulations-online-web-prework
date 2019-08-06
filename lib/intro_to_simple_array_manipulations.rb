@@ -26,4 +26,9 @@ end
 def using_shift (array)
   ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
   array.shift
+end
+
+def shift_with_args (array)
+  ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
+  array.shift(2)
 end 
