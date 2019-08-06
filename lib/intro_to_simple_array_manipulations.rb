@@ -12,7 +12,7 @@ end
 
 def using_pop (continents)
   ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
-  continentes.pop
+  continents.pop
 end
 def using_size (array, size)
   continents.size
