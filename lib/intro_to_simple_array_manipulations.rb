@@ -10,8 +10,9 @@ def using_unshift (array, new_neighborhood)
   array.unshift("Staten Island")
 end
 
-def using_pop (array, continents)
-  array.pop= deleted_string
+def using_pop (continents)
+  ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
+  continentes.pop
 end
 def using_size (array, size)
   continents.size
