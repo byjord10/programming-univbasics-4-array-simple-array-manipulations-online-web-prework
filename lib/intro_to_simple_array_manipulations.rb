@@ -11,9 +11,5 @@ def using_unshift (array, new_neighborhood)
 end
 
 def using_pop (array, continents)
-  array.pop("Antartica")
-end
-
-def using_size (array, continents)
-continents.size
+  array.pop("Antarctica")
 end
