@@ -12,6 +12,6 @@ end
 
 def using_pop (array, continents)
   array.pop("Antarctica")
-end 
+end
 array.size
 end
