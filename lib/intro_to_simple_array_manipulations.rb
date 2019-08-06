@@ -35,5 +35,5 @@ end
 
 def using_concat (array)
   ["raindrops on roses", "whiskers on kittens"]
-  array.concat
-end 
+  array.concat(2)
+end
